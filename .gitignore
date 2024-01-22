@@ -32,3 +32,8 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+notes.md
+vault/data/core
+vault/data/logical
+vault/data/sys
