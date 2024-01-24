@@ -17,6 +17,7 @@ While it is possible to seal a Vault node using the API, Vault remains sealed un
 ## Related Guides
 * [AWS KMS Seal](https://developer.hashicorp.com/vault/docs/configuration/seal/awskms#key-rotation)
 * [Auto-unseal using AWS KMS](https://developer.hashicorp.com/vault/tutorials/auto-unseal/autounseal-aws-kms)
+* [Seal/Unseal](https://developer.hashicorp.com/vault/docs/concepts/seal)
 
 ## Prerequisites
 * AWS account for provisioning cloud resources
